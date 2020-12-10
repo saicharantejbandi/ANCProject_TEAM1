@@ -1,6 +1,6 @@
 # ANCProject_TEAM1
 
-#STYLEGAN Implementation
+# STYLEGAN Implementation
 FaceGeneratorUsingStyleGAN.ipynb is the notebook for STYLEGAN
 Libraries installed sys, dnnlib, os, pickle, PIL, numpy, config,
 Tensor flow version=1.15
@@ -8,7 +8,7 @@ Import the Nvidia labs GitHub code
 Saving the results to the mentioned location in the drive
 
 
-#DCGAN Implementation
+# DCGAN Implementation
 FaceGeneratorUsingDCGAN.ipynb is the notebook for DCGAN implementation.
 
 Libraries installed 
