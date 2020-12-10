@@ -25,4 +25,4 @@ LR_D = 0.00004 ,LR_G = 0.0002, BATCH_SIZE =64, EPOCHS =31
 BETA1 =0.5, WEIGHT_INIT_STDDEV = 0.02 EPSILON =0.00005SAMPLES_TO_SHOW = 5
 3 training the model until the mentioned epoch
 
-The required sample Kaggle AUthentication file is with the name "Kaggle Authentication". Change the user details accaordingly.
+The required sample Kaggle Authentication file is with the name, "Kaggle Authentication.json". Change the user details accordingly.
